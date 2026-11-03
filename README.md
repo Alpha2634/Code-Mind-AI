@@ -44,7 +44,7 @@ An AI/ML portfolio project demonstrating practical applications of Large Languag
 ## 🔗 Project Links
 
 - 
-- **Live Demo:** https://3de5f95c9f592790cc.gradio.live/?__theme=dark
+- **Live Demo:** https://41e97a21ed679d6e8c.gradio.live/?__theme=dark
 
 👩‍💻 Author
 
