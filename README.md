@@ -41,10 +41,11 @@ CodeMind AI performs static and AI-assisted code inspection. It does not execute
 
 An AI/ML portfolio project demonstrating practical applications of Large Language Models, prompt engineering, Python programming, and AI-powered developer tools.
 
+
 ## 🔗 Project Links
 
-- 
-- **Live Demo:** https://41e97a21ed679d6e8c.gradio.live/?__theme=dark
+- **Live Project Showcase:** https://huggingface.co/spaces/Malaikaasim263/CodeMind-AI
+- **GitHub Repository:** https://github.com/Alpha2634/Code-Mind-AI/edit/main/README.md
 
 👩‍💻 Author
 
